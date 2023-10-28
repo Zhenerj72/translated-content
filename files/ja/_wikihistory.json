@@ -992,10 +992,6 @@
     "modified": "2019-03-18T21:42:25.531Z",
     "contributors": ["Uemmra3", "takeru0430"]
   },
-  "Glossary/I18N": {
-    "modified": "2019-03-18T21:35:48.856Z",
-    "contributors": ["hamasaki", "kadokura"]
-  },
   "Glossary/IANA": {
     "modified": "2019-03-18T21:15:23.095Z",
     "contributors": ["Wind1808"]
@@ -1084,9 +1080,9 @@
     "modified": "2019-03-23T22:38:23.483Z",
     "contributors": ["Potappo", "lv7777", "w-volte"]
   },
-  "Glossary/Internationalization_and_localization": {
-    "modified": "2020-05-24T08:29:22.994Z",
-    "contributors": ["dskmori", "Potappo", "dukesan"]
+  "Glossary/Internationalization": {
+    "modified": "2019-03-18T21:35:48.856Z",
+    "contributors": ["hamasaki", "kadokura"]
   },
   "Glossary/Internet": {
     "modified": "2019-03-23T22:38:33.920Z",
@@ -30217,6 +30213,10 @@
   "WebAssembly/existing_C_to_Wasm": {
     "modified": "2020-07-17T23:22:13.809Z",
     "contributors": ["papparapa", "silverskyvicto"]
+  },
+  "conflicting/Glossary/Internationalization": {
+    "modified": "2020-05-24T08:29:22.994Z",
+    "contributors": ["dskmori", "Potappo", "dukesan"]
   },
   "conflicting/Glossary/Scroll_container": {
     "modified": "2019-03-18T20:53:07.981Z",
